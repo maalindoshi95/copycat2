@@ -1,0 +1,41 @@
+.apple-logo{
+    width:25px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul li{
+    display: inline;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+nav{
+    background-color: black;
+}
+
+.magnifying-glass{
+    margin-left: 0px;
+    height: 51px;
+    width: 50px;
+}
+
+.nav-container{
+    display:flex;
+    flex-direction: row;
+}
+
+.hero-pic{
+    background-color: darkblue;
+}
